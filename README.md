@@ -1,8 +1,8 @@
 Updated to use PhantomJS2 instead of 1
 
-You will need to make sure you have:
+You will need to make sure you have installed the below package as well:
 
-npm install git+https://github.com/nathanboktae/mocha-phantomjs.git#v4.0.0-beta1
+```npm install git+https://github.com/nathanboktae/mocha-phantomjs.git#v4.0.0-beta1```
 
 In order to support phantomjs2.
 
